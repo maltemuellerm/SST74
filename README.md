@@ -11,6 +11,6 @@
 	- Analyse_Buoy_AROME+GOTM.ipynb - Extracts trajectories from AROME output following preselected trajectories
 
 - SkinTemperature 
-	- SST_model_ZB,ipynb - a prognostic scheme of sea skin temperature by Zeng & Beljaars 2005		
+	- SST_model_ZB,ipynb - a prognostic scheme of sea skin temperature by Zeng & Beljaars 2005. This implementation reads atmospheric forcing files obtained from AROME Arctic along a specified trajectory (Analyse_Buoy_AROME+GOTM.ipynb) 		
  	- SSTmodel_new - Uses SST  model is described in [Börner et al. (2022)](https://arxiv.org/abs/2205.07933)
-	<p align = "center"><img src="https://github.com/reykboerner/diusst/blob/master/docs/header-image.png" alt="header-image" width="90%"/></p>	
+	<p align = "center"><img src="https://github.com/maltemuellerm/SST74/blob/master/docs/header-image.png" alt="header-image" width="90%"/></p>	
